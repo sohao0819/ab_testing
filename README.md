@@ -1,4 +1,8 @@
-# Analyze AB Test Result
+# AB Testing
+This is a collection of AB testing methodologies and case studies.
+
+
+## Project 1: Analyze_AB_testing_Result
 This project was completed as part of Udacity's Data Analyst Nanodegree certification. 
 
 **Project Objective:**
@@ -18,3 +22,4 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 **Document:**
 - Jupyter notebook: [Analyze_AB_Test_Results.ipynb](https://github.com/sohao0819/analyze_ab_test_result/blob/master/Analyze_AB_Test_Results.ipynb)
 
+## Project 2: AB Testing Using Chi-square
