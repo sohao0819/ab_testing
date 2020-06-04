@@ -23,3 +23,12 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 - Jupyter notebook: [Analyze_AB_Test_Results.ipynb](https://github.com/sohao0819/analyze_ab_test_result/blob/master/Analyze_AB_Test_Results.ipynb)
 
 ## Project 2: AB Testing Using Chi-square
+This is a walk through of the tutorial on Chi-squared testing, based on randomly generated demographic data. 
+
+**Analytical Scope:**
+- Chi-squared testing (one-dimensional table)
+- Chi-squared testing of independence (two-dimensional table)
+
+**Document:**
+- Jupyter notebook: [Chi-squared_ab_testing.ipynb](https://github.com/sohao0819/ab_testing/blob/master/2.%20Chi-squared_ab_testing.ipynb)
+- Reference: [Python for Data Analysis: Chi-Squared Tests](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
