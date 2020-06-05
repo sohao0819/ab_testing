@@ -32,3 +32,17 @@ This is a walk through of the tutorial on Chi-squared testing, based on randomly
 **Document:**
 - Jupyter notebook: [Chi-squared_ab_testing.ipynb](https://github.com/sohao0819/ab_testing/blob/master/2.%20Chi-squared_ab_testing.ipynb)
 - Reference: [Python for Data Analysis: Chi-Squared Tests](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
+
+## Project 3: Analysis of Variance (ANOVA)
+This is a walk through of the tutorial on ANOVA testing, based on randomly generated demographic data. 
+
+**Analytical Scope:**
+- One-way ANOVA
+- Post-hoc testing 
+- Bonferroni correction
+- Tukey test
+
+**Document:**
+- Jupyter notebook: [Analysis_of_Variance (ANOVA).ipynb](https://github.com/sohao0819/ab_testing/blob/master/3.%20Analysis_of_Variance%20(ANOVA).ipynb)
+- Reference: [Python for Data Analysis: Analysis of Variance](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
+
